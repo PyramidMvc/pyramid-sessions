@@ -3,7 +3,7 @@
 namespace Pyramid;
 
 
-use Pyramid\Interfaces\SessionHandlerInterface;
+use Pyramid\SessionHandlerInterface;
 
 class DatabaseSessionHandler implements SessionHandlerInterface {
 	private $pdo;
