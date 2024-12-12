@@ -1,0 +1,21 @@
+{
+    "name": "piramit/sessions",
+    "version": "1.0.0",
+    "description": "Pyramid session services",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pyramid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nihat Doğan"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2"
+    }
+}
