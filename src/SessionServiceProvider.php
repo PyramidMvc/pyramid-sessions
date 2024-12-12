@@ -1,6 +1,6 @@
 <?php
 
-namespace Pyramid\Providers;
+namespace Pyramid;
 
 
 use Pyramid\Connection;
